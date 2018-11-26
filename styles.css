@@ -1,6 +1,9 @@
 p {
-  margin-top: 100px;
   font-family: Arial, helvetica;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
 
 h1 {
@@ -10,11 +13,15 @@ h1 {
 
 h2 {
   font-family: Arial, helvetica;
-  margin: 100px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
+
 .title {
   color: black;
-  font: bold Helvetica, Arial, sans-serif;
+  font: bold 2.2rem Helvetica, Arial, sans-serif;
 }
 
 .uppercase {
@@ -36,19 +43,29 @@ h2 {
 
 h5 {
   color: black;
-  font: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
+  margin: auto;
+  width: 500px;
+  padding: 30px 50px 50px 80px;
 }
 
 div {
   font: Helvetica, Arial, sans-serif;
 }
 
+h5 {
+  font: Helvetica, Arial, sans-serif;
+}
 
 .center {
-  width: 500px;
   margin: auto;
-  border: 10px solid black;
-  padding: 50px 30px 50px 80px
+  width: 500px;
+  border: 3px solid black;
+  padding: 30px 50px 50px 80px;
 }
 
 
+li {
+  font-family: Arial, helvetica;
+  margin: auto;
+}
