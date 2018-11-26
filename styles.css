@@ -1,0 +1,54 @@
+p {
+  margin-top: 100px;
+  font-family: Arial, helvetica;
+}
+
+h1 {
+  color: maroon;
+  font-family: Arial;
+}
+
+h2 {
+  font-family: Arial, helvetica;
+  margin: 100px;
+}
+.title {
+  color: black;
+  font: bold Helvetica, Arial, sans-serif;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+.publish-time {
+  color: gray;
+  font-family: Arial;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.capitalize {
+  text-transform: capitalize;
+  font: Helvetica, Arial, sans-serif;
+}
+
+h5 {
+  color: black;
+  font: Helvetica, Arial, sans-serif;
+}
+
+div {
+  font: Helvetica, Arial, sans-serif;
+}
+
+
+.center {
+  width: 500px;
+  margin: auto;
+  border: 10px solid black;
+  padding: 50px 30px 50px 80px
+}
+
+
